@@ -2910,7 +2910,7 @@ void desenvolvedores(){
 	printf("\t                                                                    |                                                                                      \n");
 	printf("\t                                                                    |                                                                                      \n");
 	printf("\t                                                                    |                                                                                      \n");
-	printf("\t                         *INSTRAGRAM*                               |                                       *INSTANGRAM*                                   \n");
+	printf("\t                         *INSTAGRAM*                                |                                       *INSTAGRAM*                                    \n");
 	printf("\t                   instagram.com/jacksonm.f/                        |                                instagram.com/guilhermehgg/                           \n");
 	printf("\t                                                                    |                                                                                      \n");
 	printf("\t                                                                    |                                                                                      \n");
